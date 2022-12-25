@@ -1,0 +1,30 @@
+.exit
+deployerBalance
+const deployerBalance = await hintoken.balanceOf('0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266')
+contractBalance
+const contractBalance = await hintoken.balanceOf('0xdc64a140aa3e981100a9beca4e685f962f0cf6c9')
+hintoken
+const hintoken = await ethers.getContractAt('HinToken', '0xcf7ed3acca5a467e9e704c703e8d87f634fb0fc9')
+const token = await ethers.getContractAt('HinToken', '0xcf7ed3acca5a467e9e704c703e8d87f634fb0fc9')
+const token = await ethers.getContractAt(HinToken, '0xcf7ed3acca5a467e9e704c703e8d87f634fb0fc9')
+const faucet = await ethers.getContract
+.exit
+100000000000000000000
+testbalance.toString()
+testbalance
+const testbalance = await token.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+const balance = await token.balanceOf(0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266)
+const token = await ethers.getContractAt("HinToken", "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0")
+.exit
+const ttrybalance = token.balanceOf(0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266)
+const trybalance = token.balanceOf(0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266)
+const balance = token.balanceOf(0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266)
+balance
+const balance = await token.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+console.log(token)
+const token = await ethers.getContractAt("HinToken", "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0")
+.exit
+const HinToken = await ethers.getContractAt('HinToken' , 0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+const token = await ethers.getContractAt('HinToken' , 0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+const token = await ethers.getContractAt('HinToken' , HinToken.address )
+await ethers.getContractAt( , )

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e7e4653.css",
+    "main.js": "/static/js/main.fcc3ba88.js",
+    "static/media/logo.png": "/static/media/logo.73d8575fcc6ed4fdebd4.png",
+    "static/media/weth-logo.png": "/static/media/weth-logo.eb87cb2ae5074812267d.png",
+    "index.html": "/index.html",
+    "main.5e7e4653.css.map": "/static/css/main.5e7e4653.css.map",
+    "main.fcc3ba88.js.map": "/static/js/main.fcc3ba88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7e4653.css",
+    "static/js/main.fcc3ba88.js"
+  ]
+}
